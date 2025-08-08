@@ -1,0 +1,10 @@
+{
+    "name": "My Express App - Development",
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "port":"3307",
+        "password":"Pankaj*24",
+        "database": "skilltest"
+    }
+}
