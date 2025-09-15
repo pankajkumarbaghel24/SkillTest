@@ -1,3 +1,10 @@
 {
-    "jwtPrivateKey": "08t16e502526fesanfjh8nasd2"
+    "jwtPrivateKey": "08t16e502526fesanfjh8nasd2",
+     "db": {
+        "host": "localhost",
+        "user": "root",
+        "port":"3307",
+        "password":"Pankaj*24",
+        "database": "skilltest"
+    }
 }
